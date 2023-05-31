@@ -2,9 +2,7 @@
 
 This repository provides practical examples of the patterns used in microservice architecture. 
 
-The examples are implemented in Kotlin using Spring Boot and Spring Cloud.
-
-The application is a simple online store. It has the following workflow:
+The examples are implemented in Kotlin using Spring Boot and Spring Cloud. Example application is a simple online store. It has the following workflow:
 
 ![workflow](images/workflow.png)
 
