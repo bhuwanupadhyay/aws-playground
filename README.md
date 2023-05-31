@@ -1,6 +1,8 @@
 # Microservices Patterns Demo
 
-This repository provides practical examples of the patterns used in microservices architecture. The examples are implemented in Kotlin using Spring Boot and Spring Cloud.
+This repository provides practical examples of the patterns used in microservice architecture. 
+
+The examples are implemented in Kotlin using Spring Boot and Spring Cloud.
 
 The application is a simple online store. It has the following workflow:
 
@@ -15,4 +17,4 @@ The application is a simple online store. It has the following workflow:
 > - Organized around business capabilities
 > - Owned by a small team
 >
-> Referenced from [microservices.io](https://microservices.io/)
+> according to [microservices.io](https://microservices.io/)
